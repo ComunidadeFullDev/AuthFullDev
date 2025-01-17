@@ -71,7 +71,7 @@ export default function VerifyPhone() {
               />
             </div>
             <p className="text-sm text-gray-500 mb-4">
-              Digite o código do país e o número. Exemplo: +55 11987654321
+              Digite o código do país e o número. Exemplo: 55 11987654321
             </p>
           </div>
 

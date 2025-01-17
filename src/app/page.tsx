@@ -57,7 +57,7 @@ export default function VerifyPhone() {
             <div className="flex space-x-2 mb-2">
               <input
                 type="text"
-                placeholder="DDD"
+                placeholder="COD"
                 className="w-1/4 py-3 px-4 text-lg rounded-md border border-gray-300 focus:border-[#B22D00] focus:ring-[#B22D00]"
                 value={countryCode}
                 onChange={(e) => setCountryCode(e.target.value)}
